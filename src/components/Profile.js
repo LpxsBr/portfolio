@@ -39,7 +39,7 @@ export default function Profile() {
         <ProfileStyled>
             <section>
                 <div className="profile-image">
-                    <img src="https://avatars.githubusercontent.com/u/96118395?v=4"/>
+                    <img src="https://avatars.githubusercontent.com/LpxsBr"/>
                 </div>
                 <div className="user-information">
                     <h3>Hi! My name is Anselmo Lopes</h3>
