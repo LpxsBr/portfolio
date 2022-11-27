@@ -1,0 +1,36 @@
+{
+    "projetos": [
+        {
+            "projectTitle": "Alura Tube - imersão de React.js da Alura",
+            "tecnologia": "Javascript, React.js, Next.js, HTML, CSS",
+            "image": "/aluratube.png",
+            "githubLink": "https://github.com/LpxsBr/imers-o-alura",
+            "siteProjectLink": "https://aluratube-rosy.vercel.app/",
+            "resume": "Projeto feito com intuito de entender o funcionamento e aplicar na prática o React.js"
+        },
+        {
+            "projectTitle": "Equação de Segundo Grau",
+            "tecnologia": "PHP, HTML, CSS",
+            "image": "equacaosegundograu.png",
+            "githubLink": "https://github.com/LpxsBr/Math_functions_plataform",
+            "siteProjectLink": "https://mathfunctionsplataform.anselmolopes.repl.co/",
+            "resume": "Projeto feito no inicio do meu aprendizado de PHP, ele apenas calcula equações de segundo grau dentro de um certo layout estabelecido"
+        },
+        {
+            "projectTitle": "Pokedex simples",
+            "tecnologia": "PHP, HTML, CSS",
+            "image": "/mypokedex.png",
+            "githubLink": "https://github.com/LpxsBr/pokedex-br",
+            "siteProjectLink": "https://mypokedex.anselmolopes.repl.co/",
+            "resume": "Projeto feito enquanto estudava forma de consumir APIs com PHP"
+        },
+        {
+            "projectTitle": "Modelo de Tela de Login",
+            "tecnologia": "HTML, CSS, Bootstrap",
+            "image": "/aguadecoco.png",
+            "githubLink": "https://github.com/LpxsBr/tela-de-login-layout",
+            "siteProjectLink": "https://github.com/LpxsBr/tela-de-login-layout",
+            "resume": "Projeto feito enquanto estudava forma de consumir APIs com PHP"
+        }
+    ]
+}
